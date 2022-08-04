@@ -3,3 +3,8 @@ h1 {
     color: chartreuse;
     background-color: black;
 }
+
+p {
+    color: red;
+    background-color:light-gray;
+}
