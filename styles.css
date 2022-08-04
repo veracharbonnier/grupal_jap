@@ -6,16 +6,24 @@ h1 {
     color: chartreuse;
     background-color: black;
 }
-
+body {
+    background-color: darksalmon;
+}
 p {
-    color: red;
-    background-color: gray;
+    color: blue;
+    font-size: large;
 }
 h2 {
-    color: Red;
+    color: white;
+    background-color: brown;
 }
 table{
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin-top: 10px;
     background-color: brown;
+    color: white;
+    border-color: black;
+}
+img {
+padding-left: 10%;
 }
